@@ -5,3 +5,4 @@ Nothing fancy nor updated Marlin, but it handles three serial ports (Serial, Ser
 Please note this code breaks many of the usual pinout on RAMPS boards.
 
 ![electric connections](esquema.png "CNC application")
+![](conn.jpg "Conection to ESP")
