@@ -4,4 +4,4 @@ Nothing fancy nor updated Marlin, but it handles three serial ports (Serial, Ser
 
 Please note this code breaks many of the usual pinout on RAMPS boards.
 
-[esquema.png]
+![electric connections][esquema.png]
